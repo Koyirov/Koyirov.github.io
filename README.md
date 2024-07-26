@@ -9,3 +9,5 @@ It now includes steps for GitHub
 Another change by GitHub
 
 New change local
+
+Another new change
