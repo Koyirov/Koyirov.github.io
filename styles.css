@@ -3,15 +3,23 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
-    padding: 0;
     color: #333;
     background-color: #f4f4f4;
 }
 
-.container {
-    width: 80%;
-    margin: auto;
-    overflow: hidden;
+.project-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 90%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.project-item {
+    align-content: flex-start;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 
 header {
@@ -42,15 +50,12 @@ nav ul li a {
 }
 
 .section-padding {
-    padding: 2rem 0;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 h2 {
     color: #333;
-}
-
-.project {
-    margin-bottom: 2rem;
 }
 
 footer {
