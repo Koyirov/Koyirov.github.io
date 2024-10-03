@@ -46,6 +46,13 @@ body {
     background-color: #5e5f6b;
 }
 
+.contact {
+    align-content: flex-start;
+    padding: 1%;
+    margin: 2%;
+    background-color: #5e5f6b;
+}
+
 header {
     background-color: #333;
     color: #fff;
