@@ -3,8 +3,8 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
-    color: #333;
-    background-color: #f4f4f4;
+    color: #ffffff;
+    background-color: #0d040d;
 }
 
 .project-container {
@@ -26,10 +26,13 @@ header {
     background-color: #333;
     color: #fff;
     text-align: center;
+    padding-top: 2px;
+    padding-bottom: 1px;
 }
 
 header h1 {
     margin: 0;
+    color: #fff;
 }
 
 nav ul {
@@ -55,6 +58,7 @@ nav ul li a {
 
 h2 {
     color: #333;
+    color: #fff;
 }
 
 footer {
