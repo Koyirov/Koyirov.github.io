@@ -40,6 +40,24 @@ body {
     background-color: #5e5f6b;
 }
 
+.experience-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 90%;
+    padding: 2%;
+    margin: 2%;
+    background-color: #1f1e1d;
+}
+
+.experience-item {
+    align-content: flex-start;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin: 2%;
+    background-color: #5e5f6b;
+}
+
 .skills {
     padding: 2%;
     margin: 2%;
