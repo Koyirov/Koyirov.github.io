@@ -12,8 +12,23 @@ body {
     flex-direction: row;
     justify-content: space-between;
     width: 90%;
-    padding-left: 2%;
-    padding-right: 2%;
+    padding: 2%;
+    margin: 2%;
+    background-color: #1f1e1d;
+}
+
+.about-me {
+    align-content: flex-start;
+    padding: 1%;
+    margin: 2%;
+    background-color: #040303;
+}
+
+.summary {
+    align-content: flex-start;
+    padding: 2%;
+    margin: 2%;
+    background-color: #5e5f6b;
 }
 
 .project-item {
@@ -22,6 +37,12 @@ body {
     padding-right: 2%;
     margin: 2%;
     width: 30%;
+    background-color: #5e5f6b;
+}
+
+.skills {
+    padding: 2%;
+    margin: 2%;
     background-color: #5e5f6b;
 }
 
