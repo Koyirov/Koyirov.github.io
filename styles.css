@@ -20,6 +20,9 @@ body {
     align-content: flex-start;
     padding-left: 2%;
     padding-right: 2%;
+    margin: 2%;
+    width: 30%;
+    background-color: #5e5f6b;
 }
 
 header {
